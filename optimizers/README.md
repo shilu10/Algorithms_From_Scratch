@@ -7,5 +7,5 @@
 ## MiniBatch Gradient Descent Result
 ![image](https://user-images.githubusercontent.com/89338633/158051258-7ec8f5bb-c789-4366-b06f-ac5433b7c630.png)
 
-## Momentum Based Gradient Desvent Result
+## Momentum Based Gradient Descent Result
 ![image](https://user-images.githubusercontent.com/89338633/158051273-39e0bfb5-9f2c-4007-9b57-ede4a8d1007e.png)
